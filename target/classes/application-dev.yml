@@ -1,0 +1,14 @@
+minio:
+  #德慧内部开发机
+  endpoint: 123.56.118.113
+  port: 9001
+  accessKey: ktmsadmin
+  secretKey: ktms123456
+  #ktms开发机5号
+  #endpoint: 10.128.32.159
+  #port: 9000
+  #accessKey: minioadmin
+  #secretKey: minioadmin
+  secure: false
+  bucketName: "ktms"
+  configDir: "/data/"
